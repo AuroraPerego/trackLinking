@@ -2,3 +2,9 @@
 *png
 *json
 plots/
+*.root
+*.onnx
+graphEnv/
+*.npz
+*.pt
+*.pth
